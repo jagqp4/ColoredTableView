@@ -15,6 +15,7 @@
 		C1051AD61F1801EA00EF521A /* ColoredTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1051AD51F1801EA00EF521A /* ColoredTableViewTests.swift */; };
 		C1051AE11F1801EA00EF521A /* ColoredTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1051AE01F1801EA00EF521A /* ColoredTableViewUITests.swift */; };
 		C1051AEF1F18029500EF521A /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1051AEE1F18029500EF521A /* ColorViewController.swift */; };
+		C1051B2E1F21465700EF521A /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1051B2D1F21465700EF521A /* Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C1051AE01F1801EA00EF521A /* ColoredTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredTableViewUITests.swift; sourceTree = "<group>"; };
 		C1051AE21F1801EA00EF521A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C1051AEE1F18029500EF521A /* ColorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
+		C1051B2D1F21465700EF521A /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C1051ACC1F1801EA00EF521A /* Info.plist */,
 				C1051AC41F1801EA00EF521A /* ColoredTableView.xcdatamodeld */,
 				C1051AEE1F18029500EF521A /* ColorViewController.swift */,
+				C1051B2D1F21465700EF521A /* Color.swift */,
 			);
 			path = ColoredTableView;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1051AC61F1801EA00EF521A /* ColoredTableView.xcdatamodeld in Sources */,
+				C1051B2E1F21465700EF521A /* Color.swift in Sources */,
 				C1051AEF1F18029500EF521A /* ColorViewController.swift in Sources */,
 				C1051ABE1F1801EA00EF521A /* AppDelegate.swift in Sources */,
 			);
